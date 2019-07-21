@@ -50,6 +50,9 @@ export default function Header(props) {
         </h3>
     )
   }
+  // about
+  // icon
+  // contact
 
   return <header>{header}</header>
 }

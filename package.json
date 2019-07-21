@@ -63,6 +63,6 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
-    "deploy": "npm run clean && npm run build && npm run gh-pages"
+    "deploy": "npm run build && npm run gh-pages"
   }
 }
